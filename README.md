@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agents-orange)
-![Gemini](https://img.shields.io/badge/AI-Gemini%202.0%20Flash-purple)
+![Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-purple)
 
 **Superbot** is a multi-modal AI agent that intelligently routes user queries between a private knowledge base (your documents) and the live internet. It solves the problem of "Static RAG" by giving the AI the ability to search the web for real-time information when necessary.
 
