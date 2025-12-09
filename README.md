@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-* **LLM:** Google Gemini 2.0 Flash (via LangChain)
+* **LLM:** Google Gemini 2.5 Flash (via LangChain)
 * **Orchestration:** LangChain & LangGraph (ReAct Architecture)
 * **RAG Engine:** FAISS (Vector Store) + HuggingFace Embeddings (`all-MiniLM-L6-v2`)
 * **Data Ingestion:** `unstructured` (for universal file parsing)
